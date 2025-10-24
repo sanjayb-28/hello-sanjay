@@ -2,7 +2,15 @@
   "name": "hello-sanjay",
   "version": "1.0.0",
   "description": "A colorful CLI profile card for Sanjay — run with: npx hello-sanjay",
-  "keywords": ["profile", "card", "cli", "hello-sanjay", "npx", "ascii-art", "terminal"],
+  "keywords": [
+    "profile",
+    "card",
+    "cli",
+    "hello-sanjay",
+    "npx",
+    "ascii-art",
+    "terminal"
+  ],
   "bin": {
     "hello-sanjay": "bin/hello-sanjay.js"
   },
