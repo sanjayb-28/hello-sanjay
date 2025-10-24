@@ -1,0 +1,34 @@
+{
+  "name": "hello-sanjay",
+  "version": "1.0.0",
+  "description": "A colorful CLI profile card for Sanjay — run with: npx hello-sanjay",
+  "keywords": ["profile", "card", "cli", "hello-sanjay", "npx", "ascii-art", "terminal"],
+  "bin": {
+    "hello-sanjay": "bin/hello-sanjay.js"
+  },
+  "files": [
+    "bin/hello-sanjay.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "author": {
+    "name": "Sanjay Baskaran",
+    "url": "https://sanjay-baskaran.vercel.app"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjayb-28/hello-sanjay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sanjayb-28/hello-sanjay/issues"
+  },
+  "homepage": "https://github.com/sanjayb-28/hello-sanjay#readme",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=16"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

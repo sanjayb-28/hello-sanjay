@@ -1,10 +1,7 @@
 # hello-sanjay
 
-A zero-dependency NPX CLI that prints a ASCII **HELLO!** banner with a tagline and social links.
-
----
-
-### Run
+A minimal, colorful CLI profile card.  
+Run it anywhere with:
 
 ```bash
 npx hello-sanjay
