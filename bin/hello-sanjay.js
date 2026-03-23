@@ -58,10 +58,10 @@ const TAG_RGB    = [255, 185,  50];  // warm amber
 const ARROW_RGB  = [ 80, 100, 180];  // muted indigo
 const URL_RGB    = [  0, 210, 190];
 const HELLO_STOPS = [
-  [255,  50, 180],
-  [160,  40, 255],
-  [ 50,  90, 255],
-  [  0, 210, 255],
+  [120,  40, 255],
+  [ 70,  80, 255],
+  [  0, 150, 255],
+  [  0, 215, 230],
 ];
 
 function gradientLine(line, stops) {
